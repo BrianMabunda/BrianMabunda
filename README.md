@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrianMabunda
-- 👀 I’m interested in web development(full Stack)
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in web development(full Stack) and Machine Learning
+- 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me Brianmabunda00@gmail.com
 
